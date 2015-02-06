@@ -21,7 +21,7 @@ import android.widget.ImageView;
 /**
  * Created by hocui on 2/3/2015.
  */
-public class RoundedImageView extends ImageView{
+public class RoundedImageView extends ImageView {
 
     private static final ScaleType SCALE_TYPE = ScaleType.CENTER_CROP;
     private static final int DEFAULT_BORDER_WIDTH = 1;
